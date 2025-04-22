@@ -42,4 +42,8 @@ def get_session():
         session.close()
 ```
 
+### Ausführen des Python-Scripts
 
+```
+python deck_ai_api.py
+```
