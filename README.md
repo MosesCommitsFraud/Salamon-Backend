@@ -9,6 +9,11 @@
 pip install fastapi uvicorn sqlalchemy pydantic requests numpy
 ```
 
+## Download der Decks
+
+Downloaden der Decks via diesem Link: https://drive.google.com/drive/folders/1PQZ1t2q6RetIxpzNc75yyiXnaQ28t9JO?usp=sharing
+
+Einfügen der Decks ins Root-Verzeichnis.
 
 ## SQLite-Einrichtung
 
